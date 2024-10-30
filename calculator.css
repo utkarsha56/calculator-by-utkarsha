@@ -36,6 +36,10 @@ body{
     padding-right: 6px;
     box-shadow: -3px -3px rgba(254, 254, 254, 0.511) ;
 }
+.row {
+    display: flex;
+    justify-content: center;
+}
 .row input{
     background-color: #3A6D8C;
     border: 0;
